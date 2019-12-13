@@ -1,0 +1,8 @@
+
+adminzone/class/SMTPMailer.php
+
+adminzone/conf/config_smtp.php
+
+adminzone/smtp/class/SMTPMailer.php
+
+adminzone/smtp/conf/config_smtp.php

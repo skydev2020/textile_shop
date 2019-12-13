@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^order-completed$ order_complete.php [PT]  
+RewriteRule ^pristatymo-ir-grazinimo-salygos$ terms.php [PT]  
+RewriteRule ^(.*)/step2$ step2.php?producturl=$1&page_step=step2 [PT] 
+RewriteRule ^(.*)/step3$ step3.php?producturl=$1&page_step=step3 [PT]  
